@@ -1,4 +1,4 @@
-# Where does construction waste in New York City come from, and where does it go?
+# Waste and health in New York
 
 by Daisy Lewis
 
@@ -9,9 +9,24 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# What is the connection between landfill proximity and respiratory health in New York?
+
+Methodology
+
+Key Findings
+
+## Why is respiratory health so much worse in the Bronx?
+
+Methodology
+
+Key Findings
+
+### Where should a waste-to-energy generator be located to cause the least amount of harm?
+
+Methodology
+
+Key Findings
+
 
 - Bulleted
 - List
